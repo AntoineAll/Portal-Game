@@ -1,0 +1,25 @@
+{
+  "name": "portal-game",
+  "version": "1.0.0",
+  "description": "Projet DevOps - Keep White Space",
+  "scripts": {
+    "audit": "npm audit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntoineAll/Portal-Game.git"
+  },
+  "keywords": [
+    "devops",
+    "epitech"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AntoineAll/Portal-Game/issues"
+  },
+  "homepage": "https://github.com/AntoineAll/Portal-Game#readme",
+  "devDependencies": {
+  }
+}
